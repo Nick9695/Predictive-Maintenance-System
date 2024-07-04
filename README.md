@@ -1,6 +1,6 @@
 # 🔧 Predictive Maintenance System 🛠️
 
-![Industrial machine](images/industrial_machine.jpg)
+![Industrial machine](https://raw.githubusercontent.com/Nick9695/Predictive-Maintenance-System/main/Images/Press.webp)
 
 **Enhance operational efficiency with predictive maintenance!**
 
@@ -92,10 +92,10 @@ The project uses simulated sensor data to represent different machinery operatio
 ## Results 🏆
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](https://raw.githubusercontent.com/Nick9695/Predictive-Maintenance-System/main/Images/Confusion%20Matrix.png)
 
 ### Training Loss Curve
-![Training Loss Curve](images/training_loss_curve.png)
+![Training Loss Curve](https://raw.githubusercontent.com/Nick9695/Predictive-Maintenance-System/main/Images/Trainning%20loss%20curve.png)
 
 ## Conclusion
 
